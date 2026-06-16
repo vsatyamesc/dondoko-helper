@@ -24,4 +24,4 @@
 
 8. This `pages.txt` will be utilized by dondoko.cc
 
-9. Optionally, you can add a `info.txt` Ref: ![https://dondoko.cc/documentation/txt](https://dondoko.cc/documentation/txt)
+9. Optionally, you can add a `info.txt` Ref: https://dondoko.cc/documentation/txt
