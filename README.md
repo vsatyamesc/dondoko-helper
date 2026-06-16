@@ -2,7 +2,9 @@
 
 1.  Clone the repo. Copy the path to cloned-folder and add it to ENV. (If you're not sure ask GPT)
 
-2. Get a Fresh Terminal.
+2.  Install Python and SHI.
+
+3.  Get a Fresh Terminal.
 
 # Use it with Github/HuggingFace etc. repos
 
@@ -16,7 +18,7 @@
 
 5. Open the repo and get the link of the current branch/folder where your image is uploaded. You will need this.
 
-6. In the Fresh terminal inside the `Branch/Chapter Name Folder` , write `dondoko <COPIED_REPO_LINK>`.
+6. In the Fresh terminal inside the `Branch/Chapter Name Folder` , write `dondoko <COPIED_HUGGINGFACE_LINK>`.
 
 7. You will get a `pages.txt` , make a commit and push to repo.
 
